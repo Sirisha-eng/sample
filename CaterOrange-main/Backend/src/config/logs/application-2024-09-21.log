@@ -1,0 +1,26 @@
+{"filename":"tableController.js","gid":"No GID","level":"info","message":"Event Category table created successfully","timestamp":"2024-09-21T13:11:02.039Z"}
+{"filename":"tableController.js","gid":"No GID","level":"info","message":"Event Cart table created successfully","timestamp":"2024-09-21T13:11:02.041Z"}
+{"filename":"tableController.js","gid":"No GID","level":"info","message":"Corporate Cart table created successfully","timestamp":"2024-09-21T13:11:02.044Z"}
+{"filename":"tableController.js","gid":"No GID","level":"info","message":"Event Products table created successfully","timestamp":"2024-09-21T13:11:02.049Z"}
+{"filename":"app.js","gid":"No GID","level":"info","message":"Tables created successfully","timestamp":"2024-09-21T13:11:02.055Z"}
+{"filename":"app.js","gid":"No GID","level":"info","message":"Server is running on port 4000","timestamp":"2024-09-21T13:11:02.061Z"}
+{"customer_email":"a@gmail.com","filename":"customerModels.js","gid":"No GID","level":"info","message":"User data added successfully","timestamp":"2024-09-21T13:12:37.124Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"Default address retrieved successfully","timestamp":"2024-09-21T13:13:10.338Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"Default address retrieved successfully","timestamp":"2024-09-21T13:13:10.351Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"address added successfully","timestamp":"2024-09-21T13:13:47.839Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"Default address retrieved successfully","timestamp":"2024-09-21T13:14:33.031Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"Default address retrieved successfully","timestamp":"2024-09-21T13:14:33.064Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"Default address retrieved successfully","timestamp":"2024-09-21T13:14:59.193Z"}
+{"code":"08P01","file":"postgres.c","filename":"eventorderController.js","gid":"C000004","length":138,"level":"error","line":"1682","message":"Error transferring cart to order: ","name":"error","routine":"exec_bind_message","severity":"ERROR","timestamp":"2024-09-21T13:17:04.748Z"}
+{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFAZ21haWwuY29tIiwiaWQiOiJDMDAwMDA0IiwiaWF0IjoxNzI2OTI0MzU3LCJleHAiOjE3MjcwMTA3NTd9.g7P8AW-Eu5H7qNwyxxf4OOkTJQ47l5MWab62nqzM8UA","createdat":"2024-09-21T13:12:37.035Z","customer_email":"a@gmail.com","customer_generated_id":"C000004","customer_id":1,"customer_name":"Sirisha Tatipaka","customer_password":"$2a$10$8SKAZlQFy.VokC/grI0VcuUzN/EmdZVy7QXU7paD4H.CseV9T3Sei","customer_phonenumber":"9392834318","filename":"customerModels.js","gid":"C000004","group_id":null,"isdeactivated":false,"lastloginat":null,"level":"info","message":"customer in model","timestamp":"2024-09-21T13:19:18.870Z","wallet_amount":null}
+{"filename":"corporateorderModels.js","gid":"C000004","level":"info","message":"all orders:","timestamp":"2024-09-21T13:19:18.873Z"}
+{"filename":"corporateorderController.js","gid":"C000004","level":"info","message":"orders in controller:","timestamp":"2024-09-21T13:19:18.874Z"}
+{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFAZ21haWwuY29tIiwiaWQiOiJDMDAwMDA0IiwiaWF0IjoxNzI2OTI0MzU3LCJleHAiOjE3MjcwMTA3NTd9.g7P8AW-Eu5H7qNwyxxf4OOkTJQ47l5MWab62nqzM8UA","createdat":"2024-09-21T13:12:37.035Z","customer_email":"a@gmail.com","customer_generated_id":"C000004","customer_id":1,"customer_name":"Sirisha Tatipaka","customer_password":"$2a$10$8SKAZlQFy.VokC/grI0VcuUzN/EmdZVy7QXU7paD4H.CseV9T3Sei","customer_phonenumber":"9392834318","filename":"customerModels.js","gid":"C000004","group_id":null,"isdeactivated":false,"lastloginat":null,"level":"info","message":"customer in model","timestamp":"2024-09-21T13:19:18.884Z","wallet_amount":null}
+{"filename":"corporateorderModels.js","gid":"C000004","level":"info","message":"all orders:","timestamp":"2024-09-21T13:19:18.887Z"}
+{"filename":"corporateorderController.js","gid":"C000004","level":"info","message":"orders in controller:","timestamp":"2024-09-21T13:19:18.889Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"Default address retrieved successfully","timestamp":"2024-09-21T13:21:31.267Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"Default address retrieved successfully","timestamp":"2024-09-21T13:21:33.407Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"Default address retrieved successfully","timestamp":"2024-09-21T13:21:33.418Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"Default address retrieved successfully","timestamp":"2024-09-21T13:22:16.631Z"}
+{"filename":"addressModels.js","gid":"C000004","level":"info","message":"Default address retrieved successfully","timestamp":"2024-09-21T13:22:16.654Z"}
+{"code":"08P01","file":"postgres.c","filename":"eventorderController.js","gid":"C000004","length":138,"level":"error","line":"1682","message":"Error transferring cart to order: ","name":"error","routine":"exec_bind_message","severity":"ERROR","timestamp":"2024-09-21T13:23:18.151Z"}

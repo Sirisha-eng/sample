@@ -1,0 +1,2 @@
+{"code":"08P01","file":"postgres.c","filename":"eventorderController.js","gid":"C000004","length":138,"level":"error","line":"1682","message":"Error transferring cart to order: ","name":"error","routine":"exec_bind_message","severity":"ERROR","timestamp":"2024-09-21T13:17:04.748Z"}
+{"code":"08P01","file":"postgres.c","filename":"eventorderController.js","gid":"C000004","length":138,"level":"error","line":"1682","message":"Error transferring cart to order: ","name":"error","routine":"exec_bind_message","severity":"ERROR","timestamp":"2024-09-21T13:23:18.151Z"}
